@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About - Himanshi Jewellery</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<nav class="navbar">
+<div class="logo">💎 Himanshi Jewellery</div>
+<ul class="nav-links">
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="gold.html">Gold</a></li>
+<li><a href="diamond.html">Diamond</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+</header>
+
+<section class="page-title">
+<h1>About Himanshi Jewellery</h1>
+<p>Tradition, beauty and elegance since 1992.</p>
+</section>
+
+<section class="about">
+
+<div class="card">
+<div class="big-icon">💎</div>
+<h2>Our Story</h2>
+
+<p>
+Welcome to Himanshi Jewellery. Our business was
+established in <strong>1992</strong>.
+</p>
+
+<p>
+We offer beautiful jewellery collections for
+everyday wear, weddings, celebrations and special
+occasions.
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>Business Information</h2>
+
+<p>👩‍💼 <strong>Owner:</strong> Himanshi Sharma</p>
+
+<p>📅 <strong>Established:</strong> 1992</p>
+
+<p>📞 <strong>Phone:</strong>
+<a href="tel:9785770641">9785770641</a>
+</p>
+
+<p>📍 <strong>Address:</strong><br>
+Chhirr Balaji Dham,<br>
+Jaipur, Rajasthan, India
+</p>
+
+</div>
+
+</section>
+
+<footer>
+<p>© 2026 Himanshi Jewellery</p>
+</footer>
+
+<script src="style.js"></script>
+</body>
+</html>
